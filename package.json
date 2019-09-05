@@ -1,0 +1,10 @@
+{
+	"name": "edu-type-test",
+	"version": "0.1.0",
+	"licence": "UNLICENSED",
+	"main": "index.html",
+	"dependencies": {
+	},
+	"scripts": {
+	}
+}
